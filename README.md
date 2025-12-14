@@ -2,6 +2,9 @@
 Insurance Risk & Claims Analysis Dashboard using Power BI
 
 # Insurance Risk & Claims Analysis Dashboard
+----## 📁 Power BI File
+"  The `.pbix` file cannot be previewed directly on GitHub.
+Please download and open it using Power BI Desktop."
 
 ## ❓ What is this project?
 This project is a Power BI dashboard designed to analyze insurance policy
