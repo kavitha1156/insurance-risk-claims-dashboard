@@ -1,5 +1,5 @@
 # insurance-risk-claims-dashboard
-Insurance Risk &amp; Claims Analysis Dashboard using Power BI
+Insurance Risk & Claims Analysis Dashboard using Power BI
 
 # Insurance Risk & Claims Analysis Dashboard
 
@@ -50,8 +50,6 @@ raw data into actionable business insights.
 
 ---
 
-## 📷 Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard.png)
 
 ---
 
@@ -63,6 +61,6 @@ raw data into actionable business insights.
 ---
 
 ## 👤 Author
-**Your Name**  
-LinkedIn: https://linkedin.com/in/your-profile
+
+S. Kavitha
 
